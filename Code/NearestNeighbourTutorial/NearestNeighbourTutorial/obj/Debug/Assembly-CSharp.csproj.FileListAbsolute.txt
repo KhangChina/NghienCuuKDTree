@@ -1,0 +1,2 @@
+C:\Users\NXK China.NXKCHINA\Desktop\Nghiên Cứu\Code\NearestNeighbourTutorial\NearestNeighbourTutorial\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\NXK China.NXKCHINA\Desktop\Nghiên Cứu\Code\NearestNeighbourTutorial\NearestNeighbourTutorial\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

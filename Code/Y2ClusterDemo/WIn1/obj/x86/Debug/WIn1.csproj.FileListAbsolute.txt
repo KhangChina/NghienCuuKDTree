@@ -1,0 +1,23 @@
+C:\Documents and Settings\Windown Office-Tuan\My Documents\SharpDevelop Projects\WIn1\WIn1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Windown Office-Tuan\My Documents\SharpDevelop Projects\WIn1\WIn1\obj\x86\Debug\WIn1.MainForm.resources
+C:\Documents and Settings\Windown Office-Tuan\My Documents\SharpDevelop Projects\WIn1\WIn1\obj\x86\Debug\WIn1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Windown Office-Tuan\My Documents\SharpDevelop Projects\WIn1\WIn1\bin\Debug\WIn1.exe
+C:\Documents and Settings\Windown Office-Tuan\My Documents\SharpDevelop Projects\WIn1\WIn1\bin\Debug\WIn1.pdb
+C:\Documents and Settings\Windown Office-Tuan\My Documents\SharpDevelop Projects\WIn1\WIn1\obj\x86\Debug\WIn1.exe
+C:\Documents and Settings\Windown Office-Tuan\My Documents\SharpDevelop Projects\WIn1\WIn1\obj\x86\Debug\WIn1.pdb
+D:\Y2 CSharp\Y2ClusterDemo\WIn1\obj\x86\Debug\WIn1.exe
+D:\Y2 CSharp\Y2ClusterDemo\WIn1\obj\x86\Debug\WIn1.pdb
+D:\Y2 CSharp\Y2ClusterDemo\WIn1\bin\Debug\WIn1.exe
+D:\Y2 CSharp\Y2ClusterDemo\WIn1\bin\Debug\WIn1.pdb
+D:\Y2 CSharp\Y2ClusterDemo\WIn1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Y2 CSharp\Y2ClusterDemo\WIn1\obj\x86\Debug\WIn1.MainForm.resources
+D:\Y2 CSharp\Y2ClusterDemo\WIn1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Y2 CSharp\Y2ClusterDemo\WIn1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NXK China.NXKCHINA\Desktop\Nghiên Cứu\Code\Y2ClusterDemo\WIn1\bin\Debug\WIn1.exe
+C:\Users\NXK China.NXKCHINA\Desktop\Nghiên Cứu\Code\Y2ClusterDemo\WIn1\bin\Debug\WIn1.pdb
+C:\Users\NXK China.NXKCHINA\Desktop\Nghiên Cứu\Code\Y2ClusterDemo\WIn1\obj\x86\Debug\WIn1.csprojAssemblyReference.cache
+C:\Users\NXK China.NXKCHINA\Desktop\Nghiên Cứu\Code\Y2ClusterDemo\WIn1\obj\x86\Debug\WIn1.MainForm.resources
+C:\Users\NXK China.NXKCHINA\Desktop\Nghiên Cứu\Code\Y2ClusterDemo\WIn1\obj\x86\Debug\WIn1.csproj.GenerateResource.cache
+C:\Users\NXK China.NXKCHINA\Desktop\Nghiên Cứu\Code\Y2ClusterDemo\WIn1\obj\x86\Debug\WIn1.csproj.CoreCompileInputs.cache
+C:\Users\NXK China.NXKCHINA\Desktop\Nghiên Cứu\Code\Y2ClusterDemo\WIn1\obj\x86\Debug\WIn1.exe
+C:\Users\NXK China.NXKCHINA\Desktop\Nghiên Cứu\Code\Y2ClusterDemo\WIn1\obj\x86\Debug\WIn1.pdb
